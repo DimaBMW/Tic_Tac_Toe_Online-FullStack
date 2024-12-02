@@ -1,4 +1,5 @@
-# Frontend - (NextJS,TS,ShadcnUI)\
+# Frontend - (NextJS,TS,ShadcnUI)\\
+
 \
 Getting Started
 
@@ -23,4 +24,4 @@ bun dev
   - kernel
   - shared
 
-# Backend - (Prisma)
+# Backend - (Prisma, PostgreSQL)
